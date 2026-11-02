@@ -1,3 +1,3 @@
-version=1.0.2
-sha256=fd7f0d9f5805acb00a6ab30527c488d599b436116bd4241df2b24a539c451c31
-notas=Menú F1 nuevo con el estilo de Gambit, avisos arriba a la derecha y marcas VIP nuevas.
+version=1.0.3
+sha256=de1943c7cbefdeafbdcc148929c370df813e7b76106c718c2edd40e4a2590bc1
+notas=Arreglo: ahora las novedades de cada versión se ven con los acentos bien.
