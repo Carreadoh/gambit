@@ -1,3 +1,3 @@
-version=1.0.4
-sha256=3d6201b9a521b82580cc72b06dcdeeadc25dd99d35a0663f0b5743123bf58a23
-notas=Nuevo: RV There Yet? con sus trucos (hasta hacer volar el RV). El menú F1 de Crime Simulator ahora tiene todo centrado.
+version=1.0.5
+sha256=a810985640806e3763422d5d4d78854e5a61ab6757802e5b1ff133da860db9b3
+notas=Arreglo: hacer volar el RV ahora anda mientras manejás (W, S, A, D, Espacio y Ctrl). Nuevo: cambiar de marcha con las flechas.
