@@ -1,0 +1,3 @@
+version=1.0.1
+sha256=2f81311d986b112e4494b3bdc053847406d7f5b6f1795e059d9052f01f0c33b0
+notas=Primera versión con actualizaciones: ahora Gambit se actualiza solo con el botón Actualizar. Ícono nuevo.
