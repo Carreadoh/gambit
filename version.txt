@@ -1,3 +1,3 @@
-version=1.0.5
-sha256=a810985640806e3763422d5d4d78854e5a61ab6757802e5b1ff133da860db9b3
-notas=Arreglo: hacer volar el RV ahora anda mientras manejás (W, S, A, D, Espacio y Ctrl). Nuevo: cambiar de marcha con las flechas.
+version=1.0.6
+sha256=85db29499f7982565f15106662efa2c0752b166b014c3e1c1195bc9a21975416
+notas=Arreglo: el RV ahora vuela de verdad y se queda en el aire. W va hacia donde mirás (mirá para arriba para subir), Espacio sube y Ctrl baja.
