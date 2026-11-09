@@ -1,3 +1,3 @@
-version=1.0.6
-sha256=85db29499f7982565f15106662efa2c0752b166b014c3e1c1195bc9a21975416
-notas=Arreglo: el RV ahora vuela de verdad y se queda en el aire. W va hacia donde mirás (mirá para arriba para subir), Espacio sube y Ctrl baja.
+version=1.0.7
+sha256=145ce4a2d285f2e720389d4056294a1ecd98422f910d507b57c247c1fe1014c3
+notas=Nuevo en Crime Simulator: Lluvia de botín. Los objetos robables del mapa te caen del cielo, los VIP primero (pestaña Botín).
